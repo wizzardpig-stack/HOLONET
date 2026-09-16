@@ -19,10 +19,16 @@ https://wizzardpig-stack.github.io/HOLONET/
 
 HTML, CSS, vanilla JavaScript and Canvas.
 
+## Source of truth
+
+Current portfolio build: **HOLONET V18.6.3 Main Net Performance Release**.
+
+The repository root `index.html` is the verified V18.6.3 build and is the current deployment source of truth.
+
 ## Development approach
 
 Independent product architecture, information design, interaction design, performance iteration, QA, and AI-assisted implementation. HOLONET is an experimental knowledge interface rather than a conventional content site.
 
-## Current status
+## Status
 
-Public prototype. The repository build is being treated as the current deployment candidate while version provenance is rechecked against the latest local release file.
+Public release candidate. Current GitHub deployment matches the verified V18.6.3 source build.
